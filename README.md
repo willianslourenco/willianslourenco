@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willianslourenco 
-- 👀 I am interested in improving my learning in programming language and object orientation, through Java, QA, Https
-- 🌱 I’m currently learning basic level object programming
-- 💞️ I’m looking to collaborate on with the community for my learning
+- 👀 Cursando Quality Assurance pela escola digital @lura, com foco em teste de softwares, buscando se qualificar a cada dia para uma imersão e transição de carreira. Estudando outras competênciasências assim como, Java, JaScript, HTML, QA.
+- 🌱 Estudante de Análise de Sistemas
+- 💞️ Procuro colaborar com a comunidade para meu aprendizado
 - 📫 How to reach me Via email or contact via mobile and watssapp
 
 <!---
